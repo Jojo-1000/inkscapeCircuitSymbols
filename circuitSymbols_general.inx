@@ -242,7 +242,7 @@ Custom predefined functions (LaTeX only):
         </effects-menu>
     </effect>
     <script>
-        <command reldir="extensions" interpreter="python">circuitSymbols.py</command>
+        <command location="inx" interpreter="python">circuitSymbols.py</command>
     </script>
 </inkscape-extension>
 
